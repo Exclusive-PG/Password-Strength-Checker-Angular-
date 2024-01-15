@@ -3,7 +3,6 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'my-password-tester',
   templateUrl: './password-tester.component.html',
-  styleUrl: './password-tester.component.scss',
 })
 export class PasswordTesterComponent {
   password = '';
